@@ -3,6 +3,11 @@
 ## Overview:
 This project is a simple Todo Web Application developed using Java Spring Boot and Spring Security, integrated with MySQL for data storage. The application allows users to manage their daily tasks with features such as user authentication, task creation, updating, deletion, and viewing.
 
+## Demo Video:
+
+
+https://github.com/user-attachments/assets/42e3f72d-26c6-499e-ab03-c1906544ae54
+
 ## Integration:
 
 - Spring Boot streamlines setup and configuration, creating a standalone JAR with embedded server capabilities.
@@ -34,10 +39,5 @@ This project is a simple Todo Web Application developed using Java Spring Boot a
 - Update a Task: Click on the "Edit" button next to a task to update its details.
 - Delete a Task: Click on the "Delete" button next to a task to remove it
 
-
-## Demo Video:
-
-
-https://github.com/user-attachments/assets/42e3f72d-26c6-499e-ab03-c1906544ae54
 
 
